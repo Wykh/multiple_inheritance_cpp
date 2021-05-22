@@ -1,0 +1,9 @@
+#CMake folders
+build
+
+#CMake config
+CMakeLists.txt
+
+#binares
+*.out
+Main
